@@ -12,6 +12,10 @@
         </CommandBar>
     </Page.TopAppBar>
 
+    <Page.DataContext>
+        <local:DataManager />
+    </Page.DataContext>
+
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid>
             <Grid.RowDefinitions>
@@ -31,8 +35,8 @@
             <TextBlock Grid.Column="1" Grid.Row="1" Text="Special Requests:" />
             <TextBlock Grid.Column="2" Grid.Row="1" Text="Order Items:" />
 
-            <ListView x:Name="requestsListView" Grid.Row="2"  Grid.Column="1" />
-            <ListView x:Name="itemsListView" Grid.Row="2" Grid.Column="2" />
+            <ListView x:Name="requestsListView" Grid.Row="2"  Grid.Column="1" ItemsSource="{Binding MenuItems}" />
+            <ListView x:Name="itemsListView" Grid.Row="2" Grid.Column="2" ItemsSource="{Binding CurrentlySelectedMenuItems}" />
 
             <Button Grid.Row="4" Grid.Column="0" Content="**Add to Order**" HorizontalAlignment="Center" VerticalAlignment="Center" />
             <Button Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Content="**Submit Order**" HorizontalAlignment="Center" VerticalAlignment="Center" />

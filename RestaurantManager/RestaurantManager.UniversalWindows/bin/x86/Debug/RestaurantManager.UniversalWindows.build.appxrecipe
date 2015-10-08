@@ -21,54 +21,23 @@
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\LargeSquareLogo.png">
       <PackagePath>Assets\LargeSquareLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SmallSquareLogo.png">
       <PackagePath>Assets\SmallSquareLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.png">
-      <PackagePath>Assets\SplashScreen.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
-      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
-      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
-      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\ClrCompression.dll">

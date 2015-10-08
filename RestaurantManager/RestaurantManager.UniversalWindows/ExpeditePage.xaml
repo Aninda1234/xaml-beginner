@@ -12,6 +12,10 @@
         </CommandBar>
     </Page.TopAppBar>
 
+    <Page.DataContext>
+        <local:DataManager />
+    </Page.DataContext>
+
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid>
             <Grid.RowDefinitions>
@@ -19,7 +23,7 @@
                 <RowDefinition Height="0.1*"/>
             </Grid.RowDefinitions>
 
-            <GridView x:Name="gridView" Grid.Row="1"/>
+            <GridView x:Name="gridView" ItemsSource="{Binding OrderItems}" />
 
             <Button Grid.Row="2" Content="**Clear All Orders**" HorizontalAlignment="Center" VerticalAlignment="Center" />
         </Grid>

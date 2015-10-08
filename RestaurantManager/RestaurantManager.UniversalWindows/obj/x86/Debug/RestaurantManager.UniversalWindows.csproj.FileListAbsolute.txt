@@ -8,13 +8,6 @@ H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\resources.pri
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\AppxManifest.xml
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\AppxManifest.xml
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\StoreLogo.png
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\ClrCompression.dll
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\entrypoint\RestaurantManager.UniversalWindows.exe
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Microsoft.CSharp.dll
@@ -229,7 +222,6 @@ H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\System.Xml.XDocument.dll
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\System.Xml.XmlDocument.dll
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\System.Xml.XmlSerializer.dll
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\RestaurantManager.UniversalWindows.csprojResolveAssemblyReference.cache
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\App.g.i.cs
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\App.g.cs
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\ExpeditePage.g.i.cs
@@ -427,7 +419,6 @@ H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\resources.pri
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\LargeSquareLogo.png
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SmallSquareLogo.png
-H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.png
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-100.png
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-100.png
 H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\LargeSquareLogo.png

@@ -1,0 +1,16 @@
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
