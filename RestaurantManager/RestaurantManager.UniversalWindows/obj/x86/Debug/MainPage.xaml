@@ -22,8 +22,8 @@
             <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Restaurant manager" Height="Auto" Width="Auto" HorizontalAlignment="Center" VerticalAlignment="Bottom" Style="{StaticResource HeaderTextBlockStyle}" />
             <TextBlock Grid.Row="1" Grid.ColumnSpan="2" Text="Internal Test Version" Height="Auto" Width="Auto" HorizontalAlignment="Center" VerticalAlignment="Bottom" Style="{StaticResource SubheaderTextBlockStyle}" />
 
-            <Button Grid.Row="2" Grid.Column="0" Content="**Go to Orders View**" HorizontalAlignment="Center" />
-            <Button Grid.Row="2" Grid.Column="1" Content="**Submit Order**" HorizontalAlignment="Center" />
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="**Go to Orders View**" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="**Submit Order**" HorizontalAlignment="Center" VerticalAlignment="Center" />
 
         </Grid>
 
