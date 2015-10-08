@@ -6,6 +6,11 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
+    <Page.TopAppBar>
+        <CommandBar>
+            <AppBarButton x:Name="appBarButton" Label="Home" Icon="Home" Click="appBarButton_Click"/>
+        </CommandBar>
+    </Page.TopAppBar>
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid>
@@ -25,9 +30,12 @@
 
             <TextBlock Grid.Column="1" Grid.Row="1" Text="Special Requests:" />
             <TextBlock Grid.Column="2" Grid.Row="1" Text="Order Items:" />
-            
-            <TextBlock Grid.Row="4" Grid.Column="0" Text="**Add to Order**" HorizontalAlignment="Center" VerticalAlignment="Center" />
-            <TextBlock Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Text="**Submit Order**" HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+            <ListView x:Name="requestsListView" Grid.Row="2"  Grid.Column="1" />
+            <ListView x:Name="itemsListView" Grid.Row="2" Grid.Column="2" />
+
+            <Button Grid.Row="4" Grid.Column="0" Content="**Add to Order**" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            <Button Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Content="**Submit Order**" HorizontalAlignment="Center" VerticalAlignment="Center" />
 
         </Grid>
 

@@ -22,7 +22,7 @@
     <AppXManifest Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-08T17:06:47.524</Modified>
+      <Modified>2015-10-08T17:27:16.193</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -99,7 +99,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\entrypoint\RestaurantManager.UniversalWindows.exe">
       <PackagePath>entrypoint\RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-10-08T17:06:46.053</Modified>
+      <Modified>2015-10-08T17:27:12.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -119,15 +119,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-10-08T17:06:46.644</Modified>
+      <Modified>2015-10-08T17:27:12.566</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.exe">
       <PackagePath>RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-10-08T17:06:47.517</Modified>
+      <Modified>2015-10-08T17:27:16.188</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml">
       <PackagePath>RestaurantManager.UniversalWindows.xr.xml</PackagePath>
-      <Modified>2015-10-08T17:06:45.745</Modified>
+      <Modified>2015-10-08T17:27:10.226</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="H:\GitHub\xaml-beginner\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
